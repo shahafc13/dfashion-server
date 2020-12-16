@@ -114,7 +114,7 @@ controls.enablePan = true;
 controls.dampingFactor = 0.1;
 controls.autoRotate = false;
 controls.autoRotateSpeed = 0.2;
-
+controls.rotateSpeed = 0.2;
 function animate() {
 
   controls.update();
