@@ -1,0 +1,8 @@
+[
+  {
+    "name": "shoes",
+    "variants": {
+       "glTF-Binary": "shoes.glb"
+    }
+  }
+]
