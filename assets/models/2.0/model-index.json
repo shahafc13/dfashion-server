@@ -4,5 +4,11 @@
     "variants": {
        "glTF-Binary": "shoes.glb"
     }
+  },
+  {
+    "name": "bag",
+    "variants": {
+       "glTF-Binary": "test.glb"
+    }
   }
 ]
