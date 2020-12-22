@@ -10,5 +10,11 @@
     "variants": {
        "glTF-Binary": "test.glb"
     }
+  },
+  {
+    "name": "blackSuit",
+    "variants": {
+       "glTF-Binary": "black_suit.glb"
+    }
   }
 ]
