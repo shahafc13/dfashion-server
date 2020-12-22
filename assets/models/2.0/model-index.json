@@ -1,20 +1,272 @@
 [
-  {
-    "name": "shoes",
-    "variants": {
-       "glTF-Binary": "shoes.glb"
+    {
+        "name": "shoes",
+        "variants": {
+            "glTF-Binary": "shoes.glb"
+        }
+    },
+    {
+        "name": "bag",
+        "variants": {
+            "glTF-Binary": "test.glb"
+        }
+    },
+    {
+        "name": "blackSuit",
+        "variants": {
+            "glTF-Binary": "black_suit.glb"
+        }
+    },
+    {
+        "name": "Corset_cold",
+        "variants": {
+            "glTF-Binary": "Corset_cold.glb"
+        }
+    },
+    {
+        "name": "Corset_simple",
+        "variants": {
+            "glTF-Binary": "Corset_simple.glb"
+        }
+    },
+    {
+        "name": "Corset_zipper",
+        "variants": {
+            "glTF-Binary": "Corset_zipper.glb"
+        }
+    },
+    {
+        "name": "blue_dress",
+        "variants": {
+            "glTF-Binary": "blue_dress.glb"
+        }
+    },
+    {
+        "name": "shiny_black_dress",
+        "variants": {
+            "glTF-Binary": "shiny_black_dress.glb"
+        }
+    },
+    {
+        "name": "shiny_blue_dress",
+        "variants": {
+            "glTF-Binary": "shiny_blue_dress.glb"
+        }
+    },
+    {
+        "name": "G-jacket",
+        "variants": {
+            "glTF-Binary": "G-jacket.glb"
+        }
+    },
+    {
+        "name": "K_Jeans_Jacket",
+        "variants": {
+            "glTF-Binary": "K_Jeans_Jacket.glb"
+        }
+    },
+    {
+        "name": "K_Leather_Jacket",
+        "variants": {
+            "glTF-Binary": "K_Leather_Jacket.glb"
+        }
+    },
+    {
+        "name": "K_White_Jacket",
+        "variants": {
+            "glTF-Binary": "K_White_Jacket.glb"
+        }
+    },
+    {
+        "name": "Leather_Jacket_6",
+        "variants": {
+            "glTF-Binary": "Leather_Jacket_6.glb"
+        }
+    },
+    {
+        "name": "N-Leather_Jacket",
+        "variants": {
+            "glTF-Binary": "N-Leather_Jacket.glb"
+        }
+    },
+    {
+        "name": "Vintage_Jeans_Jacket",
+        "variants": {
+            "glTF-Binary": "Vintage_Jeans_Jacket.glb"
+        }
+    },
+    {
+        "name": "Z-Jacket-1",
+        "variants": {
+            "glTF-Binary": "Z-Jacket-1.glb"
+        }
+    },
+    {
+        "name": "Z-Jacket-Studs-Open",
+        "variants": {
+            "glTF-Binary": "Z-Jacket-Studs-Open.glb"
+        }
+    },
+    {
+        "name": "Legging-Gold-1",
+        "variants": {
+            "glTF-Binary": "Legging-Gold-1.glb"
+        }
+    },
+    {
+        "name": "Legging-Gold-2",
+        "variants": {
+            "glTF-Binary": "Legging-Gold-2.glb"
+        }
+    },
+    {
+        "name": "Legging-Red-2",
+        "variants": {
+            "glTF-Binary": "Legging-Red-2.glb"
+        }
+    },
+    {
+        "name": "Legging-Red",
+        "variants": {
+            "glTF-Binary": "Legging-Red.glb"
+        }
+    },
+    {
+        "name": "Legging_Black-1",
+        "variants": {
+            "glTF-Binary": "Legging_Black-1.glb"
+        }
+    },
+    {
+        "name": "Legging_Black-2",
+        "variants": {
+            "glTF-Binary": "Legging_Black-2.glb"
+        }
+    },
+    {
+        "name": "Legging_Black",
+        "variants": {
+            "glTF-Binary": "Legging_Black.glb"
+        }
+    },
+    {
+        "name": "Lingerie",
+        "variants": {
+            "glTF-Binary": "Lingerie.glb"
+        }
+    },
+    {
+        "name": "Strings",
+        "variants": {
+            "glTF-Binary": "Strings.glb"
+        }
+    },
+    {
+        "name": "Blue_Pants",
+        "variants": {
+            "glTF-Binary": "Blue_Pants.glb"
+        }
+    },
+    {
+        "name": "Dark_Blue_Pants",
+        "variants": {
+            "glTF-Binary": "Dark_Blue_Pants.glb"
+        }
+    },
+    {
+        "name": "Grey_Pants",
+        "variants": {
+            "glTF-Binary": "Grey_Pants.glb"
+        }
+    },
+    {
+        "name": "N_Leather_Shirt",
+        "variants": {
+            "glTF-Binary": "N_Leather_Shirt.glb"
+        }
+    },
+    {
+        "name": "Z_Leather_Shirt",
+        "variants": {
+            "glTF-Binary": "Z_Leather_Shirt.glb"
+        }
+    },
+    {
+        "name": "K-Shoe",
+        "variants": {
+            "glTF-Binary": "K-Shoe.glb"
+        }
+    },
+    {
+        "name": "Red_Wedges",
+        "variants": {
+            "glTF-Binary": "Red_Wedges.glb"
+        }
+    },
+    {
+        "name": "Studded_Heels",
+        "variants": {
+            "glTF-Binary": "Studded_Heels.glb"
+        }
+    },
+    {
+        "name": "Tall_Boot",
+        "variants": {
+            "glTF-Binary": "Tall_Boot.glb"
+        }
+    },
+    {
+        "name": "Walkers",
+        "variants": {
+            "glTF-Binary": "Walkers.glb"
+        }
+    },
+    {
+        "name": "Black Straps_Leather Short",
+        "variants": {
+            "glTF-Binary": "Black Straps_Leather Short.glb"
+        }
+    },
+    {
+        "name": "Black_Leather_Short",
+        "variants": {
+            "glTF-Binary": "Black_Leather_Short.glb"
+        }
+    },
+    {
+        "name": "Red_Leather_Short",
+        "variants": {
+            "glTF-Binary": "Red_Leather_Short.glb"
+        }
+    },
+    {
+        "name": "Black_Skirt_Leather",
+        "variants": {
+            "glTF-Binary": "Black_Skirt_Leather.glb"
+        }
+    },
+    {
+        "name": "Gold_Skirt-1",
+        "variants": {
+            "glTF-Binary": "Gold_Skirt-1.glb"
+        }
+    },
+    {
+        "name": "Gold_Skirt-5",
+        "variants": {
+            "glTF-Binary": "Gold_Skirt-5.glb"
+        }
+    },
+    {
+        "name": "Leather_Skirt_Folds",
+        "variants": {
+            "glTF-Binary": "Leather_Skirt_Folds.glb"
+        }
+    },
+    {
+        "name": "Pencil_skirt",
+        "variants": {
+            "glTF-Binary": "Pencil_skirt.glb"
+        }
     }
-  },
-  {
-    "name": "bag",
-    "variants": {
-       "glTF-Binary": "test.glb"
-    }
-  },
-  {
-    "name": "blackSuit",
-    "variants": {
-       "glTF-Binary": "black_suit.glb"
-    }
-  }
 ]
